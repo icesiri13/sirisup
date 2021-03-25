@@ -60,7 +60,7 @@ const AdminSidebar = () => {
               <a href="#" className="nav-link active">
                 <i className="nav-icon fas fa-tachometer-alt" />
                 <p>
-                  Dashboard
+                  menu
                   <i className="right fas fa-angle-left" />
                 </p>
               </a>
@@ -68,20 +68,20 @@ const AdminSidebar = () => {
                 <li className="nav-item">
                   <Link href="/"><a className="nav-link">
                     <i className="far fa-circle nav-icon" />
-                    <p>Dashboard v1</p>
+                    <p>Home</p>
                   </a>
                   </Link>
                 </li>
                 <li className="nav-item">
                   <a href="./index2.html" className="nav-link">
                     <i className="far fa-circle nav-icon" />
-                    <p>Dashboard v2</p>
+                    <p>Abouts</p>
                   </a>
                 </li>
                 <li className="nav-item">
                   <a href="./index3.html" className="nav-link active">
                     <i className="far fa-circle nav-icon" />
-                    <p>Dashboard v3</p>
+                    <p>SSSS</p>
                   </a>
                 </li>
               </ul>
