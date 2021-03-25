@@ -81,7 +81,7 @@ const AdminSidebar = () => {
                 <li className="nav-item">
                   <a href="./index3.html" className="nav-link active">
                     <i className="far fa-circle nav-icon" />
-                    <p>v3</p>
+                    <p>SV1</p>
                   </a>
                 </li>
               </ul>
